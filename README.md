@@ -5,7 +5,7 @@ This project performs sentiment analysis on movie reviews using Natural Language
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 - Text preprocessing (cleaning, tokenization)
 - Stopword removal
 - Lemmatization
