@@ -30,8 +30,8 @@ This project performs sentiment analysis on movie reviews using Natural Language
 
 ## 📁 Project Structure
 Movie_Sentiment_Analysis/  
-│── Sentiment_Analysis.ipynb  
 │── README.md  
+│── Sentiment_Analysis.ipynb  
 
 ---
 
