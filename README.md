@@ -1,8 +1,7 @@
 # 🎬 Movie Sentiment Analysis
 
 ## 📌 Overview
-This project performs sentiment analysis on movie reviews using Natural Language Processing (NLP).  
-It classifies reviews as **Positive 😊** or **Negative 😞**.
+This project performs sentiment analysis on movie reviews using Natural Language Processing (NLP). It classifies reviews as **Positive 😊** or **Negative 😞** using machine learning techniques.
 
 ---
 
@@ -11,7 +10,7 @@ It classifies reviews as **Positive 😊** or **Negative 😞**.
 - Stopword removal
 - Lemmatization
 - TF-IDF vectorization
-- Naive Bayes model
+- Naive Bayes classification model
 
 ---
 
@@ -23,10 +22,40 @@ It classifies reviews as **Positive 😊** or **Negative 😞**.
 
 ---
 
-## 📊 Output
-- Predicts sentiment of movie reviews  
-- Shows accuracy and evaluation metrics  
+## 📊 Model Performance
+- Algorithm: Multinomial Naive Bayes  
+- Accuracy: (add your accuracy here)
 
 ---
 
 ## 📁 Project Structure
+Movie_Sentiment_Analysis/  
+│── Sentiment_Analysis.ipynb  
+│── README.md  
+
+---
+
+## ▶️ How to Run
+1. Open the notebook in Jupyter Notebook or VS Code  
+2. Install required libraries:  
+   `pip install pandas nltk scikit-learn`  
+3. Run all cells  
+4. View sentiment predictions  
+
+---
+
+## 📊 Output
+- Predicts sentiment of movie reviews  
+- Displays accuracy and evaluation metrics  
+
+---
+
+## 🎯 Future Improvements
+- Improve accuracy using advanced models  
+- Use Deep Learning (LSTM/RNN)  
+- Deploy as a web app using Streamlit  
+
+---
+
+## 🙌 Author
+**Ashlesha Varghane**
